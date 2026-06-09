@@ -1,2 +1,0 @@
-# Poisk-Gnoma
-swag
